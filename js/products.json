@@ -1,0 +1,182 @@
+[
+    {
+        "id": "vaper-01",
+        "titulo": "Vaporesso Sky Solo Plus",
+        "imagen": "./assets/vaper1.jpg",
+        "categoria": {
+            "nombre": "Vapers",
+            "id": "Vapers"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vaper-02",
+        "titulo": "Vaporesso Go 80",
+        "imagen": "./assets/vaper2.jpg",
+        "categoria": {
+            "nombre": "Vapers",
+            "id": "Vapers"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vaper-03",
+        "titulo": "Smok Pen 22 v2",
+        "imagen": "./assets/vaper3.jpg",
+        "categoria": {
+            "nombre": "Vapers",
+            "id": "Vapers"
+        },
+        "precio":  22800
+    },
+    {
+        "id": "vaper-04",
+        "titulo": "LUXE XR MAX",
+        "imagen": "./assets/vaper4.jpg",
+        "categoria": {
+            "nombre": "Vapers",
+            "id": "Vapers"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "vaper-05",
+        "titulo": "Abrigo 05",
+        "imagen": "./assets/vaper5.jpg",
+        "categoria": {
+            "nombre": "Vapers",
+            "id": "Vapers"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquid-01",
+        "titulo": "Nasty Cush man mango strawberry",
+        "imagen": "./assets/liquid1.jpg",
+        "categoria": {
+            "nombre": "Liquid Import",
+            "id": "Liquidimp"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquid-02",
+        "titulo": "Nasty Caramel tabaco",
+        "imagen": "./assets/liquid2.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquid-03",
+        "titulo": "Nasty asap grape",
+        "imagen": "./assets/liquid3.jpg",
+        "categoria": {
+            "nombre": "Liquid Import",
+            "id": "Liquidimp"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquid-04",
+        "titulo": "Zómo Nasty lemon",
+        "imagen": "./assets/liquid4.jpg",
+        "categoria": {
+            "nombre": "Liquid Import",
+            "id": "Liquidimp"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquid-05",
+        "titulo": "Zómo Nasty Mango ",
+        "imagen": "./assets/liquid5.jpg",
+        "categoria": {
+            "nombre": "Liquid Import",
+            "id": "Liquidimp"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquid-06",
+        "titulo": "Zómo Nasty Passion fruit",
+        "imagen": "./assets/liquid6.jpg",
+        "categoria": {
+            "nombre": "Liquid Import",
+            "id": "Liquidimp"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "liquid-07",
+        "titulo": "Zomo ice bubble gum",
+        "imagen": "./assets/liquid7.jpg",
+        "categoria": {
+            "nombre": "Liquid Import",
+            "id": "Liquidimp"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Liquid-08",
+        "titulo": "Zomo iceburst berries ice",
+        "imagen": "./assets/liquid8.jpg",
+        "categoria": {
+            "nombre": "Liquid Import",
+            "id": "Liquidimp"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Liquid-09",
+        "titulo": "Pantalón 01",
+        "imagen": "./assets/liquid9.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Liquid-10",
+        "titulo": "Pantalón 02",
+        "imagen": "./assets/liquid10.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Liquid-11",
+        "titulo": "Pantalón 03",
+        "imagen": "./assets/liquid11.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Liquid-12",
+        "titulo": "Pantalón 04",
+        "imagen": "./assets/liquid12.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Liquid-13",
+        "titulo": "Pantalón 05",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
